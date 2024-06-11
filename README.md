@@ -1,7 +1,7 @@
-# Hi there, I'm Niranjan M 👋
+# I am the all-coder
 
 ## About Me
-"I am currently an engineering undergrad with a passion for solving problems and creating innovative solutions using modern technologies. I enjoy learning new skills and applying them to real-world challenges, constantly seeking opportunities to grow and improve."
+I am currently an engineering undergrad with a passion for solving problems and creating innovative solutions using modern technologies. I enjoy learning new skills and applying them to real-world challenges, constantly seeking opportunities to grow and improve.
 
 
 - I am currently learning machine learning and deep learning with computer vision
