@@ -1,7 +1,7 @@
-<h1 align="center">Hello there, I'm Niranjan M</h1>
+<h1 align="center">Hello there, I'm Niranjan</h1>
 - 📫 How to reach me **niranjanmwork@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/niranjan-m-038806292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan" height="30" width="40" /></a>
 </p>
