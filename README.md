@@ -1,5 +1,4 @@
 <h1 align="center">Hello there, I'm Niranjan</h1>  
-<hr>
 
 ## 📫 How to reach me  
 **Email:** [niranjanmwork@gmail.com](mailto:niranjanmwork@gmail.com)  
