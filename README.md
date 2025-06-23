@@ -10,8 +10,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats  
+## Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=all-coder&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=all-coder&theme=dark" alt="GitHub Streaks"/>
 </p>
